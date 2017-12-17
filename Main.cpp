@@ -1,7 +1,5 @@
 //
-// Main.cpp: routines for the general test harness.
-//
-// All real test code is in test.cpp.
+// Main.cpp
 //
 
 #include "stdafx.h"
